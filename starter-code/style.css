@@ -39,7 +39,7 @@ header {
 }
 
 img.grayscale {
-    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
 
 .btn-slide {
